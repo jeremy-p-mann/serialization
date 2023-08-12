@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "serial"
+version = "0.1.0"
+description = ""
+authors = ["Jeremy Mann <jmann227@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.0.3"
+openai = "^0.27.8"
+streamlit = "^1.25.0"
+pytest = "^7.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

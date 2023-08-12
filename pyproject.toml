@@ -6,7 +6,7 @@ authors = ["Jeremy Mann <jmann227@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.9.17"
 pandas = "^2.0.3"
 openai = "^0.27.8"
 streamlit = "^1.25.0"

@@ -32,5 +32,3 @@ st.markdown(
 ```
 '''
 )
-st.title('Serializer')
-st.write(serialize)

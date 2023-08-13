@@ -1,0 +1,3 @@
+def serialize(input):
+    return {}
+    
